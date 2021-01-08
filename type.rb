@@ -1,1 +1,3 @@
-puts "webcamp".upcase
+name = "守屋健二です"
+
+puts name
