@@ -1,3 +1,2 @@
-name = "守屋健二です"
-
-puts name
+sibjects =["国語","算数","理科","社会"]
+puts sibjects[2]
